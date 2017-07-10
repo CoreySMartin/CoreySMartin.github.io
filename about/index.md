@@ -2,7 +2,7 @@
 layout: default
 title: About Corey Martin
 ---
-#About me, Corey Martin
+# About me, Corey Martin
 
 	<div class="blurb">
 	<h1>About me, Corey Martin</h1>
