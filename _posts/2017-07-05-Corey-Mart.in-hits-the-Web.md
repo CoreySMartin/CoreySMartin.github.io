@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Corey Mart.in hits the Web"
+title: "Corey Martin makes a blog"
 date: 2017-07-05
 ---
 
-This is the innagural post of [CoreyMart.in](http://www.coreymart.in).
+This is the innagural post of [Corey Martin](http://www.coreymart.in).
