@@ -8,4 +8,4 @@ Oh, hello! I'm Corey Martin.  I've worked in automation and software/algorithm d
 
 I hold a B.S. in Physics from NC State University.  During my time there, I rose to the office of president of Riot House, an unchartered social organization.
 
-Recreationally, I run, play music, and tool around town in my sandrail built from a 1971 Volkswagen Beetle.
+Recreationally, I like to run, play music, and tool around town in my sandrail built from a 1971 Volkswagen Beetle.  I also work continuously on my yard and home renovation projects.
